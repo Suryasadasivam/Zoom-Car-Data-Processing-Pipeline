@@ -1,0 +1,54 @@
+[
+
+    {
+        "booking_id": "B051",
+        "customer_id": "C039",
+        "car_id": "CAR177",
+        "booking_date": "25-08-21",
+        "start_time": "2025-08-21T19:36:17Z",
+        "end_time": "2025-08-22T02:36:17Z",
+        "total_amount": 349.53,
+        "status": "completed"
+    },
+    {
+        "booking_id": "B052",
+        "customer_id": "C039",
+        "car_id": "CAR371",
+        "booking_date": "25-08-28",
+        "start_time": "2025-08-28T21:36:17Z",
+        "end_time": "2025-08-29T01:36:17Z",
+        "total_amount": 204.63,
+        "status": "cancelled"
+    },
+    {
+        "booking_id": "B053",
+        "customer_id": "C039",
+        "car_id": "CAR827",
+        "booking_date": "25-09-06",
+        "start_time": "2025-09-06T20:36:17Z",
+        "end_time": "2025-09-07T00:36:17Z",
+        "total_amount": 592.08,
+        "status": "cancelled"
+    },
+    {
+        "booking_id": "B054",
+        "customer_id": "C023",
+        "car_id": "CAR430",
+        "booking_date": "25-08-25",
+        "start_time": "2025-08-25T20:36:17Z",
+        "end_time": "2025-08-26T03:36:17Z",
+        "total_amount": 600.84,
+        "status": "completed"
+    },
+    {
+        "booking_id": "B055",
+        "customer_id": "C035",
+        "car_id": "CAR434",
+        "booking_date": "25-08-15",
+        "start_time": "2025-08-15T19:36:17Z",
+        "end_time": "2025-08-15T23:36:17Z",
+        "total_amount": 368.16,
+        "status": "cancelled"
+    }
+
+]

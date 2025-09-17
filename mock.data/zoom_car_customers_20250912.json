@@ -1,0 +1,162 @@
+[
+    {
+        "customer_id": "C001",
+        "name": "Customer1",
+        "email": "customer1@example.com",
+        "phone_number": "8116467387",
+        "sign_up_date": "2024-01-17",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C002",
+        "name": "Customer2",
+        "email": "customer2@example.com",
+        "phone_number": "8164293260",
+        "sign_up_date": "2025-07-29",
+        "status": "active"
+    },
+    {
+        "customer_id": "C003",
+        "name": "Customer3",
+        "email": "customer3@example.com",
+        "phone_number": "7594019261",
+        "sign_up_date": "2023-12-06",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C004",
+        "name": "Customer4",
+        "email": "customer4@example.com",
+        "phone_number": "7155119113",
+        "sign_up_date": "2023-11-15",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C005",
+        "name": "Customer5",
+        "email": "customer5@example.com",
+        "phone_number": "8647651698",
+        "sign_up_date": "2024-10-07",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C006",
+        "name": "Customer6",
+        "email": "customer6@example.com",
+        "phone_number": "7741838752",
+        "sign_up_date": "2025-01-31",
+        "status": "active"
+    },
+    {
+        "customer_id": "C007",
+        "name": "Customer7",
+        "email": "customer7@example.com",
+        "phone_number": "6556316187",
+        "sign_up_date": "2023-09-16",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C008",
+        "name": "Customer8",
+        "email": "customer8@example.com",
+        "phone_number": "6881953311",
+        "sign_up_date": "2023-04-12",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C009",
+        "name": "Customer9",
+        "email": "customer9@example.com",
+        "phone_number": "6237370078",
+        "sign_up_date": "2024-04-20",
+        "status": "active"
+    },
+    {
+        "customer_id": "C010",
+        "name": "Customer10",
+        "email": "customer10@example.com",
+        "phone_number": "9855107698",
+        "sign_up_date": "2024-08-06",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C011",
+        "name": "Customer11",
+        "email": "customer11@example.com",
+        "phone_number": "7234003449",
+        "sign_up_date": "2024-10-09",
+        "status": "active"
+    },
+    {
+        "customer_id": "C012",
+        "name": "Customer12",
+        "email": "customer12@example.com",
+        "phone_number": "6556117145",
+        "sign_up_date": "2024-02-09",
+        "status": "active"
+    },
+    {
+        "customer_id": "C013",
+        "name": "Customer13",
+        "email": "customer13@example.com",
+        "phone_number": "9298190934",
+        "sign_up_date": "2023-06-27",
+        "status": "active"
+    },
+    {
+        "customer_id": "C014",
+        "name": "Customer14",
+        "email": "customer14@example.com",
+        "phone_number": "9731338929",
+        "sign_up_date": "2024-08-31",
+        "status": "active"
+    },
+    {
+        "customer_id": "C015",
+        "name": "Customer15",
+        "email": "customer15@example.com",
+        "phone_number": "7802789782",
+        "sign_up_date": "2023-08-31",
+        "status": "inactive"
+    },
+    {
+        "customer_id": "C016",
+        "name": "Customer16",
+        "email": "customer16@example.com",
+        "phone_number": "8171749183",
+        "sign_up_date": "2024-08-13",
+        "status": "active"
+    },
+    {
+        "customer_id": "C017",
+        "name": "Customer17",
+        "email": "customer17@example.com",
+        "phone_number": "8004975526",
+        "sign_up_date": "2025-04-03",
+        "status": "active"
+    },
+    {
+        "customer_id": "C018",
+        "name": "Customer18",
+        "email": "customer18@example.com",
+        "phone_number": "8804991333",
+        "sign_up_date": "2025-01-26",
+        "status": "active"
+    },
+    {
+        "customer_id": "C019",
+        "name": "Customer19",
+        "email": "customer19@example.com",
+        "phone_number": "6240663399",
+        "sign_up_date": "2023-02-07",
+        "status": "active"
+    },
+    {
+        "customer_id": "C020",
+        "name": "Customer20",
+        "email": "customer20@example.com",
+        "phone_number": "9981863409",
+        "sign_up_date": "2024-04-17",
+        "status": "active"
+    }
+]
